@@ -2,6 +2,8 @@
 
 import './App.css'
 import Description from './components/Description/Description'
+import Notification from './components/Notification/Notification'
+
 
 function App() {
 
@@ -9,6 +11,9 @@ function App() {
   return (
     <>
     < Description />
+    < Notification />
+
+   
       
       
     </>
